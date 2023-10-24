@@ -45,12 +45,12 @@ ___
 
 <br>
 <div align="center">
-  <a href="https://5controls.com/" style="text-decoration:none;">
-    <img src="https://github.com/5sControl/5sControl.github.io/blob/main/assets/Property%201%3DVariant4.png" width="10%" alt="" /></a> 
+  <a href="https://www.linkedin.com/company/5scontrol/" style="text-decoration:none;">
+<img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-FE6100?style=for-the-bage&logo=linkedin" height='30'>
   &emsp;
   <a href="https://github.com/5sControl" style="text-decoration:none;">
-    <img src="https://github.com/5sControl/5sControl.github.io/blob/main/assets/github.png" width="4%" alt="" /></a>
+<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-FE6100?style=for-the-bage&logo=github" height='30'>
  &emsp; 
   <a href="https://www.youtube.com/@5scontrol" style="text-decoration:none;">
-    <img src="https://github.com/5sControl/5sControl.github.io/blob/main/assets/youtube%20(1).png" width="5%" alt="" /></a>
+<img alt="YouTube" src="https://img.shields.io/badge/YouTube-FE6100?style=for-the-bage&logo=youtube" height='30'>
 </div>
