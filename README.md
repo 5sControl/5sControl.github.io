@@ -46,11 +46,11 @@ ___
 <br>
 <div align="center">
   <a href="https://5controls.com/" style="text-decoration:none;">
-    <img src="https://github.com/5sControl/Manufacturing-Automatization-Enterprise/blob/3bafa5805821a34e8b825df7cc78e00543fd7a58/assets/Property%201%3DVariant4.png" width="10%" alt="" /></a> 
+    <img src="https://github.com/5sControl/5sControl.github.io/blob/main/assets/Property%201%3DVariant4.png" width="10%" alt="" /></a> 
   &emsp;
   <a href="https://github.com/5sControl" style="text-decoration:none;">
-    <img src="https://github.com/5sControl/Manufacturing-Automatization-Enterprise/blob/3bafa5805821a34e8b825df7cc78e00543fd7a58/assets/github.png" width="4%" alt="" /></a>
+    <img src="https://github.com/5sControl/5sControl.github.io/blob/main/assets/github.png" width="4%" alt="" /></a>
  &emsp; 
   <a href="https://www.youtube.com/@5scontrol" style="text-decoration:none;">
-    <img src="https://github.com/5sControl/Manufacturing-Automatization-Enterprise/blob/ebf176c81fdb62d81b2555cb6228adc074f60be0/assets/youtube%20(1).png" width="5%" alt="" /></a>
+    <img src="https://github.com/5sControl/5sControl.github.io/blob/main/assets/youtube%20(1).png" width="5%" alt="" /></a>
 </div>
