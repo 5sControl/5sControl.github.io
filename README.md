@@ -1,4 +1,11 @@
-<div align='center'>
+
+<div align='left'>
+  <a href='https://5controls.com/'>
+  <img src="https://github.com/5sControl/5sControl.github.io/assets/131950264/40cb36c2-266c-4e66-ab74-2dd44d93a806" alt="5controlS" height = "30" />
+    &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
+    </a>
+  
+
 <a href='https://5controls.com/solutions/machine-control'>
   
 <img src='https://img.shields.io/badge/MACHINE%20CONTROL-blue?style=for-the-badge'>
@@ -26,19 +33,22 @@
 
 ___
 
-<p align="center">
-  <img src="https://github.com/5sControl/.github/assets/131950264/d65c5be1-1cca-46a1-b564-ef4364f0dbc6" alt="5controlS" height = "320" />
-</p>
 
+
+<br>
 
 **[5controlS](https://5controls.com/)** is an open source AI-powered manufacturing operations platform that helps companies improve productivity, eliminate waste, and enhance workplace safety using computer vision (CV) and machine learning (ML). 
 
-The platform generates detailed reports to provide insights on how processes can be optimized.
+<p align="center">
+  <img src="https://github.com/5sControl/5sControl.github.io/assets/131950264/7b15ac15-9a9a-4939-8fa6-39c1d3d6d0c2" alt="5controlS" />
+</p>
+
+The platform generates detailed **reports** to provide insights on how processes can be optimized.
 
 Plug-in your ML-algorithms or some of the Official 5S algorithms and get a ready-to-use software for manufacturing monitoring.
 
 <div align='center'>
-<img width="600" alt="5S scheme (2) (1)" src="https://github.com/5sControl/5sControl.github.io/assets/131950264/20f839c6-8895-453c-82a1-9766b4f2d3b5">
+<img alt="5S diagram (1)" src="https://github.com/5sControl/5sControl.github.io/blob/main/assets/%D0%93%D0%98%D0%A4%2025%20%D0%BC%D0%B1%20(2).gif">
 </div>
 
 ___
