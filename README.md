@@ -48,7 +48,7 @@ The platform generates detailed **reports** to provide insights on how processes
 Plug-in your ML-algorithms or some of the Official 5S algorithms and get a ready-to-use software for manufacturing monitoring.
 
 <div align='center'>
-<img alt="5S diagram (1)" src="https://github.com/5sControl/5sControl.github.io/blob/main/assets/%D0%93%D0%98%D0%A4%2025%20%D0%BC%D0%B1%20(2).gif">
+<img alt="5S diagram (1)" src="./assets/Gif25.gif">
 </div>
 
 ___
