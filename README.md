@@ -37,7 +37,7 @@ ___
 
 <br>
 
-**[5controlS](https://5controls.com/)** is an open source AI-powered manufacturing operations platform that helps companies improve productivity, eliminate waste, and enhance workplace safety using computer vision (CV) and machine learning (ML). 
+**[5controlS](https://5controls.com/)** is a video monitoring system with AI analysis and ERP Integration (Open Source) that helps companies improve productivity, eliminate waste, and enhance workplace safety using computer vision (CV) and machine learning (ML). 
 
 <p align="center">
   <img src="https://github.com/5sControl/5sControl.github.io/assets/131950264/7b15ac15-9a9a-4939-8fa6-39c1d3d6d0c2" alt="5controlS" />
