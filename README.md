@@ -1,5 +1,8 @@
+<head>
 <meta name="google-site-verification" content="LcTM4kTDfrefVNB2k3FvOFXZJ-yioShUjQshEsEp1oE" />
+</head>
 
+<body>
 <div align='left'>
   <a href='https://5controls.com/'>
   <img src="https://github.com/5sControl/5sControl.github.io/assets/131950264/40cb36c2-266c-4e66-ab74-2dd44d93a806" alt="5controlS" height = "30" />
@@ -65,4 +68,4 @@ ___
   <a href="https://www.youtube.com/@5scontrol" style="text-decoration:none;">
 <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FE6100?style=for-the-bage&logo=youtube" height='30'>
     <br>
-
+</body>
