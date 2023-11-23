@@ -35,27 +35,28 @@
 </a>
 </div>
 
-___
+<hr>
 
 
 
 <br>
 
-**[5controlS](https://5controls.com/)** is a video monitoring system with AI analysis and ERP Integration (Open Source) that helps companies improve productivity, eliminate waste, and enhance workplace safety using computer vision (CV) and machine learning (ML). 
+<strong>[5controlS](https://5controls.com/)</strong> is a video monitoring system with AI analysis and ERP Integration (Open Source) that helps companies improve productivity, eliminate waste, and enhance workplace safety using computer vision (CV) and machine learning (ML). 
 
 <p align="center">
   <img src="https://github.com/5sControl/5sControl.github.io/assets/131950264/7b15ac15-9a9a-4939-8fa6-39c1d3d6d0c2" alt="5controlS" />
 </p>
 
-The platform generates detailed **reports** to provide insights on how processes can be optimized.
+The platform generates detailed <strong>reports</strong> to provide insights on how processes can be optimized.
 
 Plug-in your ML-algorithms or some of the Official 5S algorithms and get a ready-to-use software for manufacturing monitoring.
 
 <div align='center'>
 <img alt="5S diagram (1)" src="./assets/Gif25.gif">
-</div>
+</div></body>
 
-___
+<footer>
+<hr>
 
 <br>
 <div align="center">
@@ -67,5 +68,4 @@ ___
  &emsp; 
   <a href="https://www.youtube.com/@5scontrol" style="text-decoration:none;">
 <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FE6100?style=for-the-bage&logo=youtube" height='30'>
-    <br>
-</body>
+    <br></footer>
