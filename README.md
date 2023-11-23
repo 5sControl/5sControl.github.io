@@ -41,8 +41,9 @@
 
 <br>
 
-<strong>[5controlS](https://5controls.com/)</strong> is a video monitoring system with AI analysis and ERP Integration (Open Source) that helps companies improve productivity, eliminate waste, and enhance workplace safety using computer vision (CV) and machine learning (ML). 
+<strong><a href="https://5controls.com/">5controlS</a></strong> is a video monitoring system with AI analysis and ERP Integration (Open Source) that helps companies improve productivity, eliminate waste, and enhance workplace safety using computer vision (CV) and machine learning (ML). 
 
+<br>
 <br>
 
 <p align="center">
@@ -52,11 +53,13 @@
 
 <br>
 
+
 The platform generates detailed <strong>reports</strong> to provide insights on how processes can be optimized.
 
 Plug-in your ML-algorithms or some of the Official 5S algorithms and get a ready-to-use software for manufacturing monitoring.
 
 
+<br>
 <br>
 
 <div align='center'>
