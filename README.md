@@ -1,5 +1,12 @@
 <head>
 <meta name="google-site-verification" content="LcTM4kTDfrefVNB2k3FvOFXZJ-yioShUjQshEsEp1oE" />
+  
+  <title>A video monitoring system with AI analysis and ERP Integration (Open Source)</title>
+  
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="5controlS open source software helps companies improve productivity, eliminate waste, and enhance workplace safety using computer vision (CV) and machine learning (ML)">
+
+  
 </head>
 
 <body>
