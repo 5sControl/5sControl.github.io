@@ -6,6 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="5controlS open source software helps companies improve productivity, eliminate waste, and enhance workplace safety using computer vision (CV) and machine learning (ML)">
 <link rel="canonical" href="https://5scontrol.github.io/"/>
+<link type="image/png" sizes="96x96" rel="icon" href="./assets/96x96.png">
   
 </head>
 
