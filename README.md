@@ -7,6 +7,18 @@
   
 </head>
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VCQ6Z3DR4B"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VCQ6Z3DR4B');
+</script>
+
+
+
 <body>
 <div align='left'>
   <a href='https://5controls.com/'>
