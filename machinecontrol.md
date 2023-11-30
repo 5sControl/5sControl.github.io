@@ -8,6 +8,13 @@ title: Machine Control
 <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
 <link type="image/png" sizes="16x16" rel="icon" href="/favicon-16x16.png">
 <link type="image/png" sizes="32x32" rel="icon" href="/favicon-32x32.png">
+
+<style>
+body {
+  min-width: 80vh;
+  font-size: 16px;
+}
+</style>
   
 </head>
 
