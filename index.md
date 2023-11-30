@@ -21,13 +21,13 @@
 
 <header> 
 <div align='left'>
-  <a href='https://5controls.com/'>
+  <a href='index.md'>
   <img src="https://github.com/5sControl/5sControl.github.io/assets/131950264/40cb36c2-266c-4e66-ab74-2dd44d93a806" alt="5controlS" height = "30" />
     &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
     </a>
   
 
-<a href='https://5controls.com/solutions/machine-control'>
+<a href='machinecontrol.md'>
   
 <img src='https://img.shields.io/badge/MACHINE%20CONTROL-blue?style=for-the-badge'>
  &emsp; 
