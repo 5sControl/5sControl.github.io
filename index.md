@@ -27,7 +27,7 @@
     </a>
   
 
-<a href='machinecontrol.md'>
+<a href='machinecontrol.html'>
   
 <img src='https://img.shields.io/badge/MACHINE%20CONTROL-blue?style=for-the-badge'>
  &emsp; 
