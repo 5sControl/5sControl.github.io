@@ -53,17 +53,3 @@ Plug-in your ML-algorithms or some of the Official 5S algorithms and get a ready
 <img alt="5S diagram (1)" src="./assets/Gif25.gif">
 </div></body>
 
-<footer>
-<hr>
-
-<br>
-<div align="center">
-  <a href="https://www.linkedin.com/company/5scontrol/" style="text-decoration:none;">
-<img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-FE6100?style=for-the-bage&logo=linkedin" height='30'>
-  &emsp;
-  <a href="https://github.com/5sControl" style="text-decoration:none;">
-<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-FE6100?style=for-the-bage&logo=github" height='30'>
- &emsp; 
-  <a href="https://www.youtube.com/@5scontrol" style="text-decoration:none;">
-<img alt="YouTube" src="https://img.shields.io/badge/YouTube-FE6100?style=for-the-bage&logo=youtube" height='30'>
-    <br>
