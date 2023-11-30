@@ -20,10 +20,9 @@ Machine control is one of the Official <a href="https://5controls.com/">5control
 Designed to handle complex industrial processes with ease, this innovative tool is perfect for use with semi-automated equipment. With Machine Control you can optimize your industrial processes and keep your equipment running smoothly, saving you time and money.
 </p>
 
-<p align="center">
-  <img src="https://github.com/5sControl/5sControl.github.io/blob/main/assets/Machine-control.png" alt="Machine control preview" />
-</p>
-
+<div align='center'>
+<img alt="Machine control preview" src="./assets/Machine-control.png">
+</div>
 
 <h2>Key features</h2>
 <ul>
@@ -36,17 +35,3 @@ Designed to handle complex industrial processes with ease, this innovative tool 
 Learn more about Machine control JS on the <a href="https://5controls.com/solutions/machine-control">5controlS website</a>.
 
 </body>
-
-<footer>
-<hr>
-
-<br>
-<div align="center">
-  <a href="https://www.linkedin.com/company/5scontrol/" style="text-decoration:none;">
-<img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-FE6100?style=for-the-bage&logo=linkedin" height='30'>
-  &emsp;
-  <a href="https://github.com/5sControl" style="text-decoration:none;">
-<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-FE6100?style=for-the-bage&logo=github" height='30'>
- &emsp; 
-  <a href="https://www.youtube.com/@5scontrol" style="text-decoration:none;">
-<img alt="YouTube" src="https://img.shields.io/badge/YouTube-FE6100?style=for-the-bage&logo=youtube" height='30'>
