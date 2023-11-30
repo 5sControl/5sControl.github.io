@@ -26,7 +26,7 @@ title: 5controlS
 
 <header> 
 <div align='left'>
-  <a href='index.html'>
+  <a href='/'>
   <img src="https://github.com/5sControl/5sControl.github.io/assets/131950264/40cb36c2-266c-4e66-ab74-2dd44d93a806" alt="5controlS" height = "30" />
     &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
     </a>
