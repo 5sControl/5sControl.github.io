@@ -2,7 +2,8 @@ plugins:
   - jekyll-seo-tag
 
 
-title: 5controlS | A video monitoring system with AI analysis and ERP Integration (Open Source)
-description : 5controlS open source software helps companies improve productivity, eliminate waste, and enhance workplace safety using computer vision (CV) and machine learning (ML)
+title: 5controlS
+tagline: Video monitoring system with AI analysis and ERP Integration (Open Source)
+description : Open source software helps companies improve productivity, eliminate waste, and enhance workplace safety using computer vision (CV) and machine learning (ML)
 
 
