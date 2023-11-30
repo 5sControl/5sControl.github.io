@@ -34,7 +34,7 @@ title: 5controlS
 <br>
 
 <p align="center">
-  <img src="https://github.com/5sControl/5sControl.github.io/assets/131950264/7b15ac15-9a9a-4939-8fa6-39c1d3d6d0c2" alt="5controlS" />
+  <img src="https://github.com/5sControl/5sControl.github.io/assets/131950264/7b15ac15-9a9a-4939-8fa6-39c1d3d6d0c2" alt="5controlS" width="100%"/>
 </p>
 
 
@@ -50,6 +50,6 @@ Plug-in your ML-algorithms or some of the Official 5S algorithms and get a ready
 <br>
 
 <div align='center'>
-<img alt="5S diagram (1)" src="./assets/Gif25.gif">
+<img alt="5S diagram (1)" src="./assets/Gif25.gif" width="70%">
 </div></body>
 
