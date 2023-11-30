@@ -1,10 +1,11 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: 'Helvetica Neue', sans-serif;
+  font-family: 'Proxima Nova', sans-serif;
+  font-size: 12px;
 }
 
 .container {
-  max-width: 960px;
+  width: 960px;
   margin: 0 auto;
 }
