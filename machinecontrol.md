@@ -21,7 +21,7 @@ Designed to handle complex industrial processes with ease, this innovative tool 
 </p>
 
 <div align='center'>
-<img alt="Machine control preview" src="./assets/Machine-control.png">
+<img alt="Machine control preview" src="./assets/Machine-control.png" width="100%">
 </div>
 
 <h2>Key features</h2>
