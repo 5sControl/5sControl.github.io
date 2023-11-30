@@ -1,3 +1,8 @@
+---
+layout: default
+title: 5controlS
+---
+
 <head>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-0QXD3WVXNH"></script>
