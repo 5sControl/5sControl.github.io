@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Helvetica Neue', sans-serif;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+}
