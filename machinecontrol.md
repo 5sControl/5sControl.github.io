@@ -20,9 +20,9 @@ Machine control is one of the Official <a href="https://5controls.com/">5control
 Designed to handle complex industrial processes with ease, this innovative tool is perfect for use with semi-automated equipment. With Machine Control you can optimize your industrial processes and keep your equipment running smoothly, saving you time and money.
 </p>
 
-<div align='center'>
-<img alt="Machine control preview" src="./assets/Machine-control.png" max-width="100%">
-</div>
+<p align="center">
+  <img alt="Machine control preview" src="./assets/Machine-control.png" width="100%"/>
+</p>
 
 <h2>Key features</h2>
 <ul>
