@@ -14,11 +14,11 @@ title: Machine Control
 <body>
 
 <h1> About Machine control JS</h1>
-<p>
+
 Machine control is one of the Official <a href="https://5controls.com/">5controlS</a> algorithm. Plug it in our video monitoring system with AI analysis and ERP Integration (Open Source) to increase the efficiency of your processes.
 <br><br>
 Designed to handle complex industrial processes with ease, this innovative tool is perfect for use with semi-automated equipment. With Machine Control you can optimize your industrial processes and keep your equipment running smoothly, saving you time and money.
-</p>
+
 
 <p align="center">
   <img alt="Machine control preview" src="./assets/Machine-control.png" width="100%"/>
