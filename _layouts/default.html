@@ -52,14 +52,14 @@ p {
         font-family: 'Open Sans', sans-serif;
       }
     </style>
-
+{% include navigation_style.html %}
     
   </head>
   
    <body>
     <div class="container-lg px-3 my-5 markdown-body">
   <body>
-    {% include navigation.html %}
+    {% include header.html %}
     {{ content }}
   </body>
   {% include footer.html %}
