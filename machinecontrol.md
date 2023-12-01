@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Machine Control
-tagline: Automatically detect when a worker is absent using power of computer vision
-description : With Machine Control you can optimize your industrial processes and keep your equipment running smoothly, saving you time and money
+description : Automatically detect when a worker is absent using power of computer vision (CV). Optimize your industrial processes and keep your equipment running smoothly, saving you time and money
 ---
 <head>
   
