@@ -29,5 +29,5 @@ Designed to handle complex industrial processes with ease, this <strong>innovati
 <strong>Plug-in Machine control to 5controlS platform to detect when your workers are absent!/<strong>
 <br><br>
 Learn more about Machine control on the <strong><a href="https://5controls.com/solutions/machine-control">5controlS website</a></strong>.
-
+<br>
 </body>
