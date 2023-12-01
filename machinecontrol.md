@@ -30,4 +30,4 @@ Designed to handle complex industrial processes with ease, this <strong>innovati
 <br><br>
 Learn more about Machine control on the <strong><a href="https://5controls.com/solutions/machine-control">5controlS website</a></strong>.
 <br>
-</body>
+
