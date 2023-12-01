@@ -16,9 +16,6 @@ title: 5controlS
   
 <meta name="google-site-verification" content="LcTM4kTDfrefVNB2k3FvOFXZJ-yioShUjQshEsEp1oE" />
   
-<link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
-<link type="image/png" sizes="16x16" rel="icon" href="/favicon-16x16.png">
-<link type="image/png" sizes="32x32" rel="icon" href="/favicon-32x32.png">
   
 </head>
 
@@ -26,7 +23,7 @@ title: 5controlS
 
 <br>
 
-<strong><a href="https://5controls.com/">5controlS</a></strong> is a video monitoring system with AI analysis and ERP Integration (Open Source) that helps companies improve productivity, eliminate waste, and enhance workplace safety using computer vision (CV) and machine learning (ML). 
+<strong><a href="https://5controls.com/">5controlS</a></strong> is a video monitoring system with <strong>AI analysis and ERP Integration</strong> (Open Source) that helps companies <strong>improve productivity, eliminate waste, and enhance workplace safety</strong> using computer vision (CV) and machine learning (ML). 
 
 <br>
 <br>
@@ -40,7 +37,7 @@ title: 5controlS
 
 The platform generates detailed <strong>reports</strong> to provide insights on how processes can be optimized.
 <br><br>
-Plug-in your ML-algorithms or some of the Official 5S algorithms and get a ready-to-use software for manufacturing monitoring.
+<strong>Plug-in your ML-algorithms or some of the Official 5S algorithms and get a ready-to-use software for manufacturing monitoring.</strong>
 
 <br>
 <br>
