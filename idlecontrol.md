@@ -22,4 +22,4 @@ Take charge of your team's workforce and ensure maximum productivity. Employees 
 
 <strong>Plug-in Idle control to 5controlS platform to start detecting when your workers are on a phone!</strong>
 
-Learn more about Idle control on the <a href="https://5controls.com/">5controlS website</a>.
+Learn more about Idle control on the <a href="https://5controls.com/solutions/employee-monitoring-software">5controlS website</a>.
