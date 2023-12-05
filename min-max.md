@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Min-Max
+title: Inventory tracking system to control your manufacturing stocks
 description : Automatically detect number of items left in stock using power of computer vision (CV). Our software helps you maintain the optimal stock levels by providing real-time inventory tracking and analysis, allowing you to make informed decisions and avoid costly production line stoppages
 ---
 <h1>About Min-Max</h1>
