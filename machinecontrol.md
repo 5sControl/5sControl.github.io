@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Machine Control
+title: Employee monitoring and time tracking software for manufacturing 
 description : Automatically detect when a worker is absent using power of computer vision (CV). Optimize your industrial processes and keep your equipment running smoothly, saving you time and money
 ---
 <head>
