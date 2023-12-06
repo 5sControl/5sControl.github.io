@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Idle Control
+title: Monitor employees on the phone with CV detector | 5controlS
 description : Automatically detect when a worker is on a phone using power of computer vision(CV). Uncover employee inefficiencies and minimize downtime
 ---
 
-<h1>About Idle control</h1>
+<h1>Idle control - identify the emploees who use a mobile in the workplace</h1>
 
 Idle control is one of the Official <a href="https://5controls.com/">5controlS</a> algorithms. Plug it in our <strong>video monitoring system with AI analysis and ERP Integration</strong> (Open Source) to uncover employee inefficiencies and minimize downtime.
 <br><br>
