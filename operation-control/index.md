@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Operation Control
+title: Operations control software for manufacturing
 description : Automatically detect when operation was done incorrectly using power of computer vision (CV). Our advanced AI algorithms provide real-time insights and predictions, enabling you to optimize your operations for maximum efficiency and profitability
 ---
 
-<h1>About Operation control</h1>
+<h1>Operation control - software for manufacturing process monitoring</h1>
 
 Operation Control is one of the Official <a href="https://5controls.com/">5controlS</a> algorithms. Plug it in our <strong>video monitoring system with AI analysis and ERP Integration</strong> (Open Source) to ensure the quality of your products.
 <br><br>
