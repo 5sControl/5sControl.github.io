@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Monitor employees on the phone with CV detector | 5controlS
+title: Monitor employees on the phone with CV detector
 description : Automatically detect when a worker is on a phone using power of computer vision(CV). Uncover employee inefficiencies and minimize downtime
 ---
 
