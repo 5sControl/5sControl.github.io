@@ -15,7 +15,7 @@ Empowers you to monitor and control the execution of technologically necessary n
   <img alt="Operation control preview" src="./assets/Operation-control.png" width="100%"/>
 </p>
 
-<h2>Key features</h2>
+<h2>Key features of Operation control</h2>
 <ul>
 <li>ensures window seam trimming operations are completed correctly;</li>
 <li>detects missing operations.</li>
