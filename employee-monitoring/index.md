@@ -9,7 +9,7 @@ description : Automatically detect when a worker is absent using power of comput
 
 <body>
 
-<h1>Machine control - Monitor the employees of your manufacturing</h1>
+<h1>Machine control - Monitor the employees using the machines in your manufacturing</h1>
 
 <strong>Machine control</strong> is one of the Official <a href="https://5controls.com/">5controlS</a> algorithm. Plug it in our video monitoring system with AI analysis and ERP Integration (Open Source) to increase the efficiency of your processes.
 <br><br>
@@ -20,13 +20,13 @@ Designed to handle complex industrial processes with ease, this <strong>innovati
   <img alt="Machine control preview" src="./assets/Machine-control.png" width="100%"/>
 </p>
 
-<h2>Key features</h2>
+<h2>Key features of Machine control</h2>
 <ul>
 <li>monitors employees using the equipment;</li>
 <li>prevents downtime of valuable and expensive equipment.</li>
 </ul>
 
-<strong>Plug-in Machine control to 5controlS platform to detect when your employees are absent!/<strong>
+<strong>Plug-in Machine control to 5controlS platform to detect when your employees are absent!</strong>
 <br><br>
 Learn more about Machine control on the <strong><a href="https://5controls.com/solutions/machine-control">5controlS website</a></strong>.
 <br>
