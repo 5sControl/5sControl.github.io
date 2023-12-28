@@ -41,7 +41,7 @@ With Inventory control, you can now effortlessly <strong>remotely manage your ma
 
 <p align="center">
   <img alt="Detected in stock level" src="./assets/camera-good.svg" style="display:inline-block; width:43%;"/>&emsp;&emsp;&emsp;&ensp;
-  <img alt="Detected low stock level" src="./assets/camera-wrong.svg" style="display:inline-block; width:43%;"/>
+  <img alt="Detected low stock level" src="./assets/camera-wrong.svg" style="display:inline-block; width:48%;"/>
 </p>
 
 <h3>Learn more about Inventory control on the <a href="https://5controls.com/solutions/inventory-control">5controlS website</a>.</h3>
