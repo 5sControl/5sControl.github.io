@@ -3,31 +3,42 @@ layout: default
 title: Employee monitoring & time tracking for manufacturing
 description : Automatically detect when a worker is absent using power of computer vision (CV). Optimize your industrial processes and keep your equipment running smoothly, saving you time and money
 ---
-<head>
-  
-</head>
-
-<body>
-
-<h1>Machine control - Monitor the employees using the machines in your manufacturing</h1>
-
+<h1>MONITOR THE EMPLOYEES USING THE MACHINES IN YOUR MANUFACTURING</h1>
+<br><br>
 <strong>Machine control</strong> is one of the Official <a href="https://5controls.com/">5controlS</a> algorithm. Plug it in our video monitoring system with AI analysis and ERP Integration (Open Source) to increase the efficiency of your processes.
 <br><br>
 Designed to handle complex industrial processes with ease, this <strong>innovative tool</strong> is perfect for use with semi-automated equipment. With Machine Control you can <strong>optimize your industrial processes</strong> and keep your equipment running smoothly, <strong>saving you time and money</strong>.
 
+<br><br>
 
 <p align="center">
   <img alt="Machine control preview" src="./assets/Machine-control.png" width="100%"/>
 </p>
 
-<h2>Key features of Machine control</h2>
-<ul>
-<li>monitors employees using the equipment;</li>
-<li>prevents downtime of valuable and expensive equipment.</li>
-</ul>
+<br><br><br><br>
 
-<strong>Plug-in Machine control to 5controlS platform to detect when your employees are absent!</strong>
+ <h2>MACHINE CONTROL FEATURES</h2>
+  <table align="center">
+    <tr>
+      <td class="feature">
+        <h3>Monitoring of employees using the equipment</h3>
+        <p>By tracking and analyzing equipment usage in real-time, you can identify any bottlenecks, make data-driven decisions to improve workflow, and enhance overall operational performance. This feature helps streamline processes for increased productivity and cost-effectiveness.</p>
+      </td>
+      <td class="feature">
+        <h3>Prevention of equipment downtime</h3>
+        <p>By minimizing unplanned downtime, you can maximize equipment uptime, optimize productivity, and avoid costly disruptions, ultimately ensuring smooth operations and protecting your valuable assets.</p>
+      </td>
+      </tr>
+  </table>
+
+  <br><br><br>
+
+<h2>HOW EFFICIENT IS YOUR EQUPMENT?</h2>
+  <br><br>
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vo3D6JPXu-k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <br><br>
 Learn more about Machine control on the <strong><a href="https://5controls.com/solutions/machine-control">5controlS website</a></strong>.
-<br>
+<br><br>
 
