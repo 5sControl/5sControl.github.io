@@ -36,7 +36,7 @@ Designed to handle complex industrial processes with ease, this <strong>innovati
 <h2>HOW EFFICIENT IS YOUR EQUPMENT?</h2>
   <br><br>
   
-<div align="center" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 0 auto;">
   <iframe src="https://www.youtube.com/embed/vo3D6JPXu-k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 80%; height: 80%;"></iframe>
 </div>
 
