@@ -36,7 +36,9 @@ Designed to handle complex industrial processes with ease, this <strong>innovati
 <h2>HOW EFFICIENT IS YOUR EQUPMENT?</h2>
   <br><br>
   
-<iframe src="https://www.youtube.com/embed/vo3D6JPXu-k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div align="center" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/vo3D6JPXu-k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 80%; height: 80%;"></iframe>
+</div>
 
 <br><br>
 <h3>Learn more about Machine control on the <strong><a href="https://5controls.com/solutions/machine-control">5controlS website</a></strong>.</h3>
