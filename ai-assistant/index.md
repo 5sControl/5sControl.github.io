@@ -17,21 +17,21 @@ ChatGuru is an <strong>on-premise solution</strong>. With this model, you and on
 <h2>Chat Guru offers a multitude of valuable advantages</h2>
 
 <ul>
-<li>Strategic Advantage</li>
+<li><b>Strategic Advantage</b></li>
 ChatGuru gives you the edge by tracking  the market trends and spotting new opportunities.
-
+<br><br>
 <li>Guarantee of security</li>
 Only you will have an exclusive access to the personal files, safeguarding privacy and giving full control over the data.
-
+<br><br>
 <li>Personalized Partner</li>
 ChatGuru tailors support and advice as it deepens its understanding of your unique goals and challenges.
-
+<br><br>
 <li>Institutional Memory</li>
 ChatGuru prevents loss of expertise and institutional knowledge even when people leave.
-
+<br><br>
 <li>Your Knowledge Multiplier</li>
 ChatGuru amplifies what you know to accelerate business success. 
-
+<br><br>
 <li>Competitive Analyzer</li>
 ChatGuru provides a strategic advantage by conducting in-depth competitive analysis.
 </ul>
