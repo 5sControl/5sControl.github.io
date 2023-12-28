@@ -14,15 +14,32 @@ With Inventory control, you can now effortlessly <strong>remotely manage your ma
   <img alt="Inventory control preview" src="./assets/Min-max.png" width="100%"/>
 </p>
 
-<h2>Key features of Inventory control</h2>
-<ul>
-<li>real-time remote stock levels monitoring;</li>
-<li>notifications about critical levels;</li>
-<li>automatic ordering for just-in-time deliveries.</li>
-</ul>
-
 <strong>Plug-in Inventory control to 5controlS platform to start monitoring your inventory level remotely!</strong>
 <br><br>
+
+ <h2>Inventory Control Features</h2>
+  <table align="center">
+    <tr>
+      <td class="feature">
+        <h3>Real-time remote stock levels monitoring</h3>
+        <p>Our software enables real-time remote monitoring of stock levels, giving you immediate visibility into your inventory from anywhere. By providing up-to-date information on materials and products, you can make informed decisions, prevent stockouts or overstocking, and optimize your supply chain.</p>
+      </td>
+      <td class="feature">
+        <h3>Automatic ordering for just-in-time deliveries</h3>
+        <p>Our software provides the convenience of automatic ordering, enabling efficient procurement and minimizing inventory holding costs. By monitoring stock levels and triggering automated purchase orders, it ensures timely replenishment and reduces the risk of overstocking or stockouts.</p>
+      </td>
+      </tr>
+     <tr>
+            <td class="feature">
+        <h3>Notifications about critical levels</h3>
+        <p>With our software, you can receive timely notifications about low stock levels, ensuring that you never run out of essential materials or products. Our system monitors your inventory levels in real-time and proactively alerts you when stock reaches a predefined threshold.</p>
+      </td>
+             <td class="feature">
+        <h3>Improved customer satisfaction</h3>
+        <p>Through streamlined processes, accurate inventory management, and efficient order fulfillment, you can ensure timely deliveries, minimize errors, and provide a seamless experience that delights your customers, ultimately fostering long-term loyalty and positive brand perception.</p>
+      </td>
+    </tr>
+  </table>
 
 
 <p align="center">
