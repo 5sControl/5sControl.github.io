@@ -3,7 +3,7 @@ layout: default
 title: Remote inventory management system
 description : Automatically detect number of items left in stock using power of computer vision (CV). Our software helps you maintain the optimal stock levels by providing real-time inventory tracking and analysis, allowing you to make informed decisions and avoid costly production line stoppages
 ---
-<h1 align:left >INVENTORY CONTROL - REMOTE INVENTORY TRACKING FOR YOUR PRODUCTION</h1>
+<h1 align="left">INVENTORY CONTROL - REMOTE INVENTORY TRACKING FOR YOUR PRODUCTION</h1>
 
 Inventory control is one of the Official <a href="https://5controls.com/">5controlS</a> algorithms. Plug it in our <strong>video monitoring system with AI analysis and ERP Integration</strong> (Open Source) to facilitate supply chain management and keep up the optimal stock levels.
 <br><br>
