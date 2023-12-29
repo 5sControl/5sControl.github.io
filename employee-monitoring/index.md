@@ -3,7 +3,7 @@ layout: default
 title: Employee monitoring & time tracking for manufacturing
 description : Automatically detect when a worker is absent using power of computer vision (CV). Optimize your industrial processes and keep your equipment running smoothly, saving you time and money
 ---
-<h1>MONITOR THE EMPLOYEES USING THE MACHINES IN YOUR MANUFACTURING</h1>
+<h1>MONITOR THE EMPLOYEES THAT USE MACHINES IN YOUR MANUFACTURING</h1>
 <br><br>
 <strong>Machine control</strong> is one of the Official <a href="https://5controls.com/">5controlS</a> algorithm. Plug it in our video monitoring system with AI analysis and ERP Integration (Open Source) to increase the efficiency of your processes.
 <br><br>
