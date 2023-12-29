@@ -18,6 +18,7 @@ Designed to handle complex industrial processes with ease, this <strong>innovati
 <br><br><br><br>
 
  <h2>MACHINE CONTROL FEATURES</h2>
+ <br>
   <table align="center">
     <tr>
       <td class="feature">
@@ -34,7 +35,7 @@ Designed to handle complex industrial processes with ease, this <strong>innovati
   <br><br><br>
 
 <h2>HOW EFFICIENT IS YOUR EQUPMENT?</h2>
-  <br><br>
+  <br>
   
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/vo3D6JPXu-k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 80%; height: 80%;"></iframe>
