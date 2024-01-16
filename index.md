@@ -21,9 +21,9 @@ title: 5controlS
 
 <body>
 
-<h1>SMART VIDEO SURVEILLANCE WITH AI AND ERP INTEGRATION</h1>  
+<h1>SMART CCTV WITH AI AND ERP INTEGRATION</h1>  
 <br><br>
-<strong><a href="https://5controls.com/">5controlS</a></strong> is a video monitoring system with <strong>AI analysis and ERP Integration</strong> (Open Source) that helps companies <strong>improve productivity, eliminate waste, and enhance workplace safety</strong> using computer vision (CV) and machine learning (ML). 
+<strong><a href="https://5controls.com/">5controlS</a></strong> is a CCTV system with <strong>AI analysis and ERP Integration</strong> (Open Source) that helps companies <strong>improve productivity, eliminate waste, and enhance workplace safety</strong> using computer vision (CV) and machine learning (ML). 
 
 <br><br>
 
@@ -34,7 +34,7 @@ title: 5controlS
 
 <br><br><br>
 
-<h2>HOW 5CONTROLS WORKS</h2>
+<h2>HOW AI CCTV BY 5CONTROLS WORKS</h2>
 <br><br>
 The platform generates detailed <strong>reports</strong> to provide insights on how processes can be optimized.
 <br><br>
@@ -48,6 +48,6 @@ The platform generates detailed <strong>reports</strong> to provide insights on 
 
 <br><br><br>
 
-<h3>Learn more about 5controlS on the <strong><a href="https://5controls.com/solutions/">5controlS website</a></strong>.</h3>
+<h3>Learn more about CCTV with AI by 5controlS on the <strong><a href="https://5controls.com/solutions/">5controlS website</a></strong>.</h3>
 <br><br>
 
