@@ -54,5 +54,5 @@ ChatGuru is an <strong>on-premise solution</strong>. With this model, you and on
 
   <br><br><br>
   
-<h3>Learn more about ChatGuru on the <strong><a href="https://5controls.com/solutions/chat-guru">5controlS website</a></strong>.</h3>
+<h3>Learn more about ChatGuru on the <strong><a href="https://5controls.com/solutions/chat-guru">5sControl website</a></strong>.</h3>
 <br><br>
