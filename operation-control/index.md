@@ -6,7 +6,7 @@ description : Automatically detect when operation was done incorrectly using pow
 
 <h1>MANUFACTURING PROCESS MONITORING WITH OPERATION CONTROL</h1>
 <br><br>
-Operation Control is one of the Official <a href="https://5controls.com/">5controlS</a> algorithms. Plug it in our <strong>video monitoring system with AI analysis and ERP Integration</strong> (Open Source) to ensure the quality of your products.
+Operation Control is one of the Official <a href="https://5scontrol.com/">5sControl</a> algorithms. Plug it in our <strong>video monitoring system with AI analysis and ERP Integration</strong> (Open Source) to ensure the quality of your products.
 <br><br>
 Empowers you to monitor and control the execution of technologically necessary number of operations with ease. Our advanced AI algorithms provide <strong>real-time insights and predictions</strong>, enabling you to <strong>optimize your operations</strong> for maximum efficiency and profitability.
 
@@ -55,6 +55,6 @@ Empowers you to monitor and control the execution of technologically necessary n
 
 <br><br>
 
-<h2>Learn more about Operation control on the <a href="https://5controls.com/solutions/operation-control">5controlS website</a>.</h2>
+<h2>Learn more about Operation control on the <a href="https://5scontrol.com/solutions/operation-control">5sControl website</a>.</h2>
 
 <br><br>
