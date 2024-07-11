@@ -2,7 +2,7 @@ plugins:
   - jekyll-seo-tag
 
 
-title: 5controlS
+title: 5sControl
 tagline: Smart CCTV with AI analysis and ERP Integration (Open Source)
 description : Open source software helps companies improve productivity, eliminate waste, and enhance workplace safety using computer vision (CV) and machine learning (ML)
 
