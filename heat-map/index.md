@@ -5,7 +5,7 @@ description : Identify overloaded and underloaded areas of your production. Our 
 ---
 <h1>IDENTIFY OVERLOADED AND UNDERLOADED AREAS OF YOUR PRODUCTION</h1>
 <br><br>
-Human-Tracker is one of the Official <a href="https://5controls.com/">5controlS</a> algorithms.
+Human-Tracker is one of the Official <a href="https://5scontrol.com/">5sControl</a> algorithms.
 <br><br>
 With Human-Tracker, you can now effortlessly <strong>identify overloaded and underloaded areas</strong> of your production. Our software helps you <strong>maintain the optimal workplace load</strong> by providing <strong>real-time movement tracking and heatmaps</strong>, allowing you to make informed decisions and <strong>avoid costly workplace load disproportions</strong>. 
 
@@ -36,5 +36,5 @@ With Human-Tracker, you can now effortlessly <strong>identify overloaded and und
   <br><br><br>
 
 
-<h3>Learn more about Heat-Map on the <a href="https://5controls.com/">5controlS website</a>.</h3>
+<h3>Learn more about Heat-Map on the <a href="https://5scontrol.com/">5sControl website</a>.</h3>
 <br><br>
