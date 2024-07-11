@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 5controlS
+title: 5sControl
 ---
 
 <head>
@@ -23,7 +23,7 @@ title: 5controlS
 
 <h1>AI CCTV FOR ENHANCED SAFETY AND EFFICIENCY</h1>  
 <br><br>
-Discover 5controlS, a cutting-edge CCTV system that utilizes advanced AI analysis and seamless ERP integration (Open Source). Our solution empowers businesses to boost productivity, eliminate waste, and ensure workplace safety by harnessing the capabilities of computer vision (CV) and machine learning (ML).
+Discover 5sControl, a cutting-edge CCTV system that utilizes advanced AI analysis and seamless ERP integration (Open Source). Our solution empowers businesses to boost productivity, eliminate waste, and ensure workplace safety by harnessing the capabilities of computer vision (CV) and machine learning (ML).
 
 <br><br>
 
@@ -41,13 +41,13 @@ Unlock the transformative potential of our AI-driven CCTV system. With 5controlS
 <br><br>
 
 <div align='center'>
-<img alt="5CONTROLS AI CCTV DIAGRAM" src="./assets/Gif25.gif" width="70%">
+<img alt="5SCONTROL AI CCTV DIAGRAM" src="./assets/Gif25.gif" width="70%">
 </div></body>
 
 <br><br><br>
 
-<h2>LEARN MORE ABOUT SMART CCTV WITH AI BY 5CONTROLS</h2>
+<h2>LEARN MORE ABOUT SMART CCTV WITH AI BY 5SCONTROL</h2>
 <BR><BR>
-Visit the <a href="https://5controls.com/solutions/">5controlS website</a> to learn more about how our AI-powered CCTV solution revolutionizes surveillance. Explore the possibilities and harness the benefits of smart CCTV technology integrated with AI for enhanced safety and efficiency.
+Visit the <a href="https://5scontrol.com/solutions/">5sControl website</a> to learn more about how our AI-powered CCTV solution revolutionizes surveillance. Explore the possibilities and harness the benefits of smart CCTV technology integrated with AI for enhanced safety and efficiency.
 <br><br>
 
