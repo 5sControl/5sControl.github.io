@@ -5,7 +5,7 @@ description : Automatically detect number of items left in stock using power of 
 ---
 <h1 align="left">REMOTE INVENTORY TRACKING FOR YOUR PRODUCTION</h1>
 <br><br>
-Inventory control is one of the Official <a href="https://5controls.com/">5controlS</a> algorithms. Plug it in our <strong>video monitoring system with AI analysis and ERP Integration</strong> (Open Source) to facilitate supply chain management and keep up the optimal stock levels.
+Inventory control is one of the Official <a href="https://5scontrol.com/">5sControl</a> algorithms. Plug it in our <strong>video monitoring system with AI analysis and ERP Integration</strong> (Open Source) to facilitate supply chain management and keep up the optimal stock levels.
 <br><br>
 With Inventory control, you can now effortlessly <strong>remotely manage your manufacturing reserves</strong> and ensure smooth and uninterrupted production processes. Our software helps you <strong>maintain the optimal stock levels</strong> by providing <strong>real-time inventory tracking</strong> and analysis, allowing you to make informed decisions and avoid costly production line stoppages. 
 
@@ -54,6 +54,6 @@ With Inventory control, you can now effortlessly <strong>remotely manage your ma
 
 <br><br>
 
-<h3>Learn more about Inventory control on the <a href="https://5controls.com/solutions/inventory-control">5controlS website</a>.</h3>
+<h3>Learn more about Inventory control on the <a href="https://5scontrol.com/solutions/inventory-control">5sControl website</a>.</h3>
 <br><br>
 
